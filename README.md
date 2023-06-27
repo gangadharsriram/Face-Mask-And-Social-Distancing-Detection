@@ -1,5 +1,5 @@
 
-# Face Mask And Social Distancing
+# Face Mask And Social Distancing Detection
 
 This repository provides information and resources related to the important measures of face mask usage and social distancing. These measures play a crucial role in mitigating the spread of infectious diseases, particularly during pandemics and outbreaks.
 
